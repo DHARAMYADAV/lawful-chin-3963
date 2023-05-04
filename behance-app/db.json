@@ -1,0 +1,228 @@
+{
+    "forYou":[
+        {
+            "id": "1",
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdKAJT3yT63NSNOi1yDR1uDoVeNLxJuI0hsw&usqp=CAU",
+            "name":"Steve Savalle",
+            "likes":"1.9k",
+            "views":"11.9k"
+        },
+        {
+            "id": "2",
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPMI4fZ6TFsWuv-aFpzWkjAVs8RXoKaPr6FQ&usqp=CAU",
+            "name":"Steve Savalle",
+            "likes":"3.8k",
+            "views":"56.9k"
+        },
+        {
+            "id": "3",
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPFEh9-zkxIUYK81muRhGvCAzQzNwJhMiTpQ&usqp=CAU",
+            "name":"Steve Savalle",
+            "likes":"5.9k",
+            "views":"12.8k"
+        },
+        {
+            "id": "4",
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThcy9KHuePdybVynQF9DVaqVxyhguFF69s1A&usqp=CAU",
+            "name":"Steve Savalle",
+            "likes":"7.7k",
+            "views":"12.7k"
+        },
+        {
+            "id": "5",
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnf4zbyN0k4RHQh8RGiG3ik2iwEhOVaYVkNg&usqp=CAU",
+            "name":"Steve Savalle",
+            "likes":"1.9k",
+            "views":"1k"
+        },
+        {
+            "id": "6",
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJq23-z1oBkRLRZbIgBlpwWy5I_Zy78pqfuQ&usqp=CAU",
+            "name":"Steve Savalle",
+            "likes":"5k",
+            "views":"11.7k"
+        },
+        {
+            "id": "7",
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTqEpx7MZqewLubMNBZEX2gHv3P1hDl2bA5Q&usqp=CAU",
+            "name":"Steve Savalle",
+            "likes":"13k",
+            "views":"87k"
+        },
+        {
+            "id": "8",
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA39eQse2iJFTJVQvu8m8k6S1SJiDC62a4OA&usqp=CAU",
+            "name":"Steve Savalle",
+            "likes":"1k",
+            "views":"34k"
+        },
+        {
+            "id": "9",
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs8iaPGv4cn7bi5jAp7aUxdE7yul23nGPq-w&usqp=CAU",
+            "name":"Steve Savalle",
+            "likes":"2k",
+            "views":"5k"
+        },
+        {
+            "id": "10",
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNpgklUVlcNGzmtOf--sPvxfFw594TgMPNCQ&usqp=CAU",
+            "name":"Steve Savalle",
+            "likes":"12k",
+            "views":"1k"
+        },
+        {
+            "id": "11",
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4jWMUgJiioamkqPx63vk56LbOHKLGT_fgLQ&usqp=CAU",
+            "name":"Steve Savalle",
+            "likes":"31k",
+            "views":"12k"
+        },
+        {
+            "id": "12",
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ_Ok1Dzr-ooZwGXb22YrrF0MgOAgkSBs5X9j9d08q4thdCAf9pZWuwOL_WWzA9ASZ_7Q&usqp=CAU",
+            "likes":"32k",
+            "name":"Steve Savalle",
+            "views":"65.98k"
+        },
+        {
+            "id": "13",
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrwpjAjKnhPjzfrzD0shiLGXXESklIv4gmnuMAahcNt8bmBzF6d7R4ioEUb8NTpmXZ-4U&usqp=CAU",
+            "likes":"8k",
+            "name":"Steve Savalle",
+            "views":"17k"
+        },
+        {
+            "id": "14",
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6HiSvucLZNhx2z0c736zAon1nUGMmVRZuMvlfa0YvsaM8KmLR7SHOhyZSSdbz25SAz0w&usqp=CAU",
+            "likes":"12k",
+            "name":"Steve Savalle",
+            "views":"54k"
+        },
+        {
+            "id": "15",
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGpkE1gmuyrDVaaDUbQj7VhAHOtwJMtRS-kw&usqp=CAU",
+            "name":"Steve Savalle",
+            "likes":"12k",
+            "views":"32k"
+        },
+        {
+            "id": "16",
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK0brcnNtt2wSleUKokIe7vDgYVmGH5DxQhg&usqp=CAU",
+            "name":"Steve Savalle",
+            "likes":"23k",
+            "views":"24k"
+        },
+        {
+            "id": "17",
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdKAJT3yT63NSNOi1yDR1uDoVeNLxJuI0hsw&usqp=CAU",
+            "name":"Steve Savalle",
+            "likes":"1.9k",
+            "views":"11.9k"
+        },
+        {
+            "id": "18",
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPMI4fZ6TFsWuv-aFpzWkjAVs8RXoKaPr6FQ&usqp=CAU",
+            "name":"Steve Savalle",
+            "likes":"3.8k",
+            "views":"56.9k"
+        },
+        {
+            "id": "19",
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPFEh9-zkxIUYK81muRhGvCAzQzNwJhMiTpQ&usqp=CAU",
+            "name":"Steve Savalle",
+            "likes":"5.9k",
+            "views":"12.8k"
+        },
+        {
+            "id": "20",
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThcy9KHuePdybVynQF9DVaqVxyhguFF69s1A&usqp=CAU",
+            "name":"Steve Savalle",
+            "likes":"7.7k",
+            "views":"12.7k"
+        },
+        {
+            "id": "21",
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnf4zbyN0k4RHQh8RGiG3ik2iwEhOVaYVkNg&usqp=CAU",
+            "name":"Steve Savalle",
+            "likes":"1.9k",
+            "views":"1k"
+        },
+        {
+            "id": "22",
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJq23-z1oBkRLRZbIgBlpwWy5I_Zy78pqfuQ&usqp=CAU",
+            "name":"Steve Savalle",
+            "likes":"5k",
+            "views":"11.7k"
+        },
+        {
+            "id": "23",
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTqEpx7MZqewLubMNBZEX2gHv3P1hDl2bA5Q&usqp=CAU",
+            "name":"Steve Savalle",
+            "likes":"13k",
+            "views":"87k"
+        },
+        {
+            "id": "24",
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA39eQse2iJFTJVQvu8m8k6S1SJiDC62a4OA&usqp=CAU",
+            "name":"Steve Savalle",
+            "likes":"1k",
+            "views":"34k"
+        },
+        {
+            "id": "25",
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs8iaPGv4cn7bi5jAp7aUxdE7yul23nGPq-w&usqp=CAU",
+            "name":"Steve Savalle",
+            "likes":"2k",
+            "views":"5k"
+        },
+        {
+            "id": "26",
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNpgklUVlcNGzmtOf--sPvxfFw594TgMPNCQ&usqp=CAU",
+            "name":"Steve Savalle",
+            "likes":"12k",
+            "views":"1k"
+        },
+        {
+            "id": "27",
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4jWMUgJiioamkqPx63vk56LbOHKLGT_fgLQ&usqp=CAU",
+            "name":"Steve Savalle",
+            "likes":"31k",
+            "views":"12k"
+        },
+        {
+            "id": "28",
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ_Ok1Dzr-ooZwGXb22YrrF0MgOAgkSBs5X9j9d08q4thdCAf9pZWuwOL_WWzA9ASZ_7Q&usqp=CAU",
+            "likes":"32k",
+            "name":"Steve Savalle",
+            "views":"65.98k"
+        },
+        {
+            "id": "29",
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrwpjAjKnhPjzfrzD0shiLGXXESklIv4gmnuMAahcNt8bmBzF6d7R4ioEUb8NTpmXZ-4U&usqp=CAU",
+            "likes":"8k",
+            "name":"Steve Savalle",
+            "views":"17k"
+        },
+        {
+            "id": "30",
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6HiSvucLZNhx2z0c736zAon1nUGMmVRZuMvlfa0YvsaM8KmLR7SHOhyZSSdbz25SAz0w&usqp=CAU",
+            "likes":"12k",
+            "name":"Steve Savalle",
+            "views":"54k"
+        },
+        {
+            "id": "31",
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGpkE1gmuyrDVaaDUbQj7VhAHOtwJMtRS-kw&usqp=CAU",
+            "name":"Steve Savalle",
+            "likes":"12k",
+            "views":"32k"
+        },
+        {
+            "id": "32",
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK0brcnNtt2wSleUKokIe7vDgYVmGH5DxQhg&usqp=CAU",
+            "name":"Steve Savalle",
+            "likes":"23k",
+            "views":"24k"
+        }
+    ]
+}
